@@ -1,0 +1,1 @@
+curl https://releases.ubuntu.com/20.04/ubuntu-20.04.6-desktop-amd64.iso --output "ubuntu20.04.iso" --interface wlp4s0

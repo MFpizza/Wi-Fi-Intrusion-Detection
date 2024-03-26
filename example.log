@@ -1,0 +1,6 @@
+2024-03-27 02:38:50,809 - DEBUG - self.data only has PacketFormatEnum.PacketFormat_VHT format item
+2024-03-27 02:38:50,812 - DEBUG - self.data only has 40 bandwidth item
+2024-03-27 02:41:39,858 - DEBUG - self.data only has PacketFormatEnum.PacketFormat_VHT format item
+2024-03-27 02:41:39,861 - DEBUG - self.data only has 40 bandwidth item
+2024-03-27 03:12:41,596 - DEBUG - self.data only has PacketFormatEnum.PacketFormat_VHT format item
+2024-03-27 03:12:41,604 - DEBUG - self.data only has 40 bandwidth item
